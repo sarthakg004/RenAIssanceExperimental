@@ -1,0 +1,16 @@
+# Paddle framework and OCR engine
+paddlepaddle==3.3.0 
+paddleocr>=3.0.0
+
+# Document/Image processing & utilities
+PyMuPDF  
+matplotlib==3.10.8
+numpy==2.2.6
+opencv-python-headless==4.13.0.92
+Pillow==12.1.1
+Shapely==2.1.2
+scikit-image
+
+# LLM post-processing
+google-genai>=1.0.0
+python-dotenv

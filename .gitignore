@@ -1,0 +1,7 @@
+.env
+data
+CRAFT-pytorch
+__pycache__
+venv
+trocr
+weights
